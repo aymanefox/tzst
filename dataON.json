@@ -5,11 +5,11 @@
     "AdsController": [
       {
         "NetworkAds": "facebook",
-        "AdMobId": "pub-3940256099942544",
+        "AdMobId": "pub-",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-/",
+        "InterstitialAdmob": "ca-app-pub-/",
+        "NativeAdmob": "ca-app-pub-/",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
@@ -20,7 +20,7 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "Dark Meazrrdow: The Pact",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg"
       },
       {
