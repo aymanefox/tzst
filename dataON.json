@@ -11,9 +11,9 @@
         "InterstitialAdmob": "ca-app-pub-3990429855526149/8778556801",
         "NativeAdmob": "ca-app-pub-3990429855526149/1294571037",
 
-        "BannerFacebook": "1647510275611748_1647510528945056",
-        "InterstitialFacebook": "1647510275611748_1647510835611692",
-        "NativeFacebook": "1647510275611748_1647511115611664"
+        "BannerFacebook": "TEST_AD_TYPE#YOUR_PLACEMENT_ID",
+        "InterstitialFacebook": "TEST_AD_TYPE#YOUR_PLACEMENT_ID",
+        "NativeFacebook": "TEST_AD_TYPE#YOUR_PLACEMENT_ID"
 
       }
     ],
